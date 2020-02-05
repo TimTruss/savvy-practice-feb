@@ -1,25 +1,29 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# This is the header for Tim.
+## This is the smaller header for Tim.
+### Bro. This the even smaller header for Tim.
 
-## Overview
+_This text is in italics._
+**This text is in bold.**
+**_This text is in italics, and bold._**
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+~~This text is rendered with strikethrough.~~
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+- Item #1
+- Item #2
+- Item #3
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+1. Apples
+2. Pears
+3. Fruit
 
-## Get Started
+1. Hello
+2. Hello, friend.
+3. Hello, my friend.
+  1. Sub-Heading, friend.
+  2. Sub-Heading, part ii my friend.
+4. Hello, hello my friend, my friend. ha.
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-97de62a546f943fbbc7a246b4785a343)
+--
 
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
-
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to get all of the goodies. If you see any _errors_ (warnings are 🙆🏾‍♂️) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
-
-Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
-
-**Note:** This is a template repository, no need to 'fork it.
+(google.com)
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2FRauFL&psig=AOvVaw1VSswKTQwTQ6sXClx4JKWp&ust=1580954576942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDDuM_DuecCFQAAAAAdAAAAABAD)
